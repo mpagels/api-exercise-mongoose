@@ -63,4 +63,4 @@ If I would ask the `API` for a book, the response would by a `JSON` looking like
 
 ## Super mega bonus exercise (#3)
 
-- Dance!
+- Dance! Because you are an awesome programmer!
