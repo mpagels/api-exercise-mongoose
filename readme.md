@@ -47,7 +47,7 @@ If I would ask the `API` for a book, the response would by a `JSON` looking like
 ## Recources
 
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-- [CRUD (HTTP) Methods][https://restfulapi.net/http-methods/]
+- [CRUD (HTTP) Methods](https://restfulapi.net/http-methods/)
 - [express.js](https://expressjs.com/)
 - [mongo](https://www.mongodb.com/docs/manual/)
 - [mongoose](https://mongoosejs.com/docs/index.html)
