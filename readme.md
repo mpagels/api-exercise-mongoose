@@ -32,16 +32,16 @@ If I would ask the `API` for a book, the response would by a `JSON` looking like
 
 ```json
 [
-   {
-      "title":"Harry Potter und der Stein der Weisen ",
-      "isbn":"3551551677",
-      "author":"Joanne K. Rowling",
-      "description":"Bis zu seinem elften Geburtstag glaubt Harry, er sei ein ganz normaler Junge. Doch dann erfährt er, dass er sich an der Schule für Hexerei und Zauberei einfinden soll - denn er ist ein Zauberer! In Hogwarts stürzt Harry von einem Abenteuer ins nächste und muss gegen Bestien, Mitschüler und Fabelwesen kämpfen. Da ist es gut, dass er schon Freunde gefunden hat, die ihm im Kampf gegen die dunklen Mächte zur Seite stehen.",
-      "published_date":"1998-01-01T23:00:00.000Z",
-      "number_of_pages":335,
-      "publisher":"Carlsen"
-   }
-];
+  {
+    "title": "Harry Potter und der Stein der Weisen ",
+    "isbn": "3551551677",
+    "author": "Joanne K. Rowling",
+    "description": "Bis zu seinem elften Geburtstag glaubt Harry, er sei ein ganz normaler Junge. Doch dann erfährt er, dass er sich an der Schule für Hexerei und Zauberei einfinden soll - denn er ist ein Zauberer! In Hogwarts stürzt Harry von einem Abenteuer ins nächste und muss gegen Bestien, Mitschüler und Fabelwesen kämpfen. Da ist es gut, dass er schon Freunde gefunden hat, die ihm im Kampf gegen die dunklen Mächte zur Seite stehen.",
+    "published_date": "1998-01-01T23:00:00.000Z",
+    "number_of_pages": 335,
+    "publisher": "Carlsen"
+  }
+]
 ```
 
 ## Recources
