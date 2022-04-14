@@ -51,6 +51,7 @@ If I would ask the `API` for a book, the response would by a `JSON` looking like
 - [express.js](https://expressjs.com/)
 - [mongo](https://www.mongodb.com/docs/manual/)
 - [mongoose](https://mongoosejs.com/docs/index.html)
+- https://github.com/mpagels/express-with-mongoose
 
 ## Bonus exercise (#1)
 
